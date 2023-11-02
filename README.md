@@ -33,3 +33,11 @@ In my case i have named my environment envi you can name your own also and versi
 > python app.py 
 
 This will provide u an ip number copy it and past the url ip number in browser and check it.
+
+
+# Day-2
+
+U can checkout my Day-2 folder now lets see Day-2
+
+
+In this day-2 we have used html tags like h1,h4 tags directly in return instead of message unlike Day-1 class. now follow same steps to run this file.
