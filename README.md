@@ -6,6 +6,8 @@ lets study about Flask web application building and making in this tutorials
 
 
 1.create a working directory for flask 
+
+
 2.create a virtual environment in same folder by command.
 > conda create -p envi python==3.8
 
